@@ -8,5 +8,6 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git
 *Flujo de trabajo de Github
 *El verdadero amor por buenas prácticas
 *Creado por el equipo
+*Incluye ejemplos
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
