@@ -9,5 +9,6 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git
 *El verdadero amor por buenas prácticas
 *Creado por el equipo
 *Incluye ejemplos
+*Disponible para todos las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
